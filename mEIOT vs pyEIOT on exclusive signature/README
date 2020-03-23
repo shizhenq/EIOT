@@ -1,0 +1,6 @@
+In order to run both python code and m file, the following codes are pre-requisite, which can be downloaded from Sal Garcia's github account.
+
+1. eiot_build.m
+2. eiot_calc.m
+3. eiot.py
+4. eiot_extras.py
