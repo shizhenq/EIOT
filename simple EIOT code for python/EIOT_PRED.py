@@ -70,7 +70,7 @@ test code below
 """
 
 import scipy.io as sp
-data = sp.loadmat('GNE_form_conversion_test.mat')
+data = sp.loadmat('Form_conversion_test.mat')
 
 # Extract the necessary matrices
 K = data['K_SG']  # K is the pure component spectra matrix (m x lambda)
